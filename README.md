@@ -19,8 +19,8 @@ The solution includes Jupyter Notebooks for all tasks, CSV files for lookalike r
 3. Derive at least 5 business insights based on the analysis.
 
 ### Deliverables:
-- **EDA Notebook**: `Likhith_K_Raj_EDA.ipynb`
-- **Business Insights PDF**: `Likhith_K_Raj_EDA.pdf`
+- **EDA Notebook**: `Likhith_Raj_EDA.ipynb`
+- **Business Insights PDF**: `Likhith_Raj_EDA.pdf`
 
 ### Insights (Example):
 1. **Most Active Region**: South America had the highest number of orders, with a total of 59 orders.
@@ -40,7 +40,7 @@ The solution includes Jupyter Notebooks for all tasks, CSV files for lookalike r
 
 ### Deliverables:
 - **Lookalike CSV**: `Lookalike.csv`
-- **Lookalike Model Notebook**: `Likhith_K_Raj_Lookalike.ipynb`
+- **Lookalike Model Notebook**: `Likhith_Raj_Lookalike.ipynb`
 
 ### Example (for Customer C0003):
 - **Lookalike 1**: C0190, Similarity Score: 0.9546
@@ -58,8 +58,8 @@ The solution includes Jupyter Notebooks for all tasks, CSV files for lookalike r
 4. Visualize the clusters and analyze the results.
 
 ### Deliverables:
-- **Clustering Report PDF**: `Likhith_K_Raj_Clustering.pdf`
-- **Clustering Notebook**: `Likhith_K_Raj_Clustering.ipynb`
+- **Clustering Report PDF**: `Likhith_Raj_Clustering.pdf`
+- **Clustering Notebook**: `Likhith_Raj_Clustering.ipynb`
 
 ### Clustering Evaluation:
 - **3 Clusters**: DBI = 0.89
