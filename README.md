@@ -70,7 +70,7 @@ The solution includes Jupyter Notebooks for all tasks, CSV files for lookalike r
 
 ## Google Colab Links
 - [Task 1: EDA and Business Insights](https://colab.research.google.com/drive/1apsczs9x__YEUl8L6PcF6iFvw1jAyKn7?usp=drive_link)
-- [Task 2: Lookalike Model](https://colab.research.google.com/drive/1MHs2rP_Hkcs3IMrURgBBFk2PzUo_BKw?usp=drive_link)
+- [Task 2: Lookalike Model](https://colab.research.google.com/drive/1MHs2rP_Hkcs3IMrURgBBFk2PzUo__BKw?usp=sharing)
 - [Task 3: Customer Segmentation / Clustering](https://colab.research.google.com/drive/1PaX0MM4w8EstBIxatRJen_5LuBkzkmsV?usp=drive_link)
 
 ---
