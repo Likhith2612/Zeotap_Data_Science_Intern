@@ -10,10 +10,6 @@ This repository contains the solution to the **eCommerce Transactions Dataset** 
 
 The solution includes Jupyter Notebooks for all tasks, CSV files for lookalike recommendations, and business insights based on the dataset.
 
-## Dataset Links
-- [Customers.csv (Raw Link)](https://drive.google.com/uc?id=1bu_--mo79VdUG9oin4ybfFGRUSXAe-WE&export=download)
-- [Products.csv (Raw Link)](https://drive.google.com/uc?id=1IKuDizVapw-hyktwfpoAoaGtHtTNHfd0&export=download)
-- [Transactions.csv (Raw Link)](https://drive.google.com/uc?id=1saEqdbBB-vuk2hxoAf4TzDEsykdKlzbF&export=download)
 
 ## Task 1: Exploratory Data Analysis (EDA) and Business Insights
 
