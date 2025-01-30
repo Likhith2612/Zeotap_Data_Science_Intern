@@ -1,8 +1,4 @@
 # Zeotap_Data_Science_Intern
-Here’s the updated **README file** with direct raw links for accessing the files:
-
----
-
 # eCommerce Transactions Dataset Analysis
 
 ## Overview
