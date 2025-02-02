@@ -1,12 +1,4 @@
 # Zeotap_Data_Science_Intern
-# eCommerce Transactions Dataset Analysis
-
-## Overview
-This repository contains the solution to the **eCommerce Transactions Dataset** analysis. The dataset consists of customer, product, and transaction data. The task involves performing **Exploratory Data Analysis (EDA)**, building a **Lookalike Model**, and applying **Customer Segmentation** using clustering techniques to generate actionable business insights.
-
-The solution includes Jupyter Notebooks for all tasks, CSV files for lookalike recommendations, and business insights based on the dataset.
-
-
 ## Task 1: Exploratory Data Analysis (EDA) and Business Insights
 
 ### Steps:
